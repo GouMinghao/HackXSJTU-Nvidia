@@ -1,9 +1,9 @@
 ## NVIDIA SMART CAR
- We made this project when we participated Hack x SJTU compotition.\
+ We made this project when we participated Hack x SJTU competition.\
  Thanks NVIDIA for their technical support
 #### Group member:
 [Jin Yongxu](https://github.com/JosephKim6)\
-[Luo Anqi]()\
+[Luo Anqi](https://github.com/AnastasiaAN)\
 [Gou Minghao]()\
 [Wang Tao](https://github.com/IrvingW)\
 [Qian Xinxin]()
