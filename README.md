@@ -4,7 +4,7 @@
 #### Group member:
 [Jin Yongxu](https://github.com/JosephKim6)\
 [Luo Anqi](https://github.com/AnastasiaAN)\
-[Gou Minghao]()\
+[Gou Minghao](https://github.com/GouMinghao)\
 [Wang Tao](https://github.com/IrvingW)\
 [Qian Xinxin]()
 
